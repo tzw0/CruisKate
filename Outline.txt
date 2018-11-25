@@ -1,0 +1,32 @@
+Electric skateboard from scratch u know right
+
+1.pwm to brushless dc circuit, design and solder 
+2.Battery design and creation(according to motor stats) 
+3.hook up to arduino, control with Analog output and comparators with motor external circuit
+4.obtain speed control device(
+4.1 handheld remote/watch clip on
+4.2 physical Big buttons onboard
+4.3 pressure sensor on board
+4.4 accelerometer (lean forward/back) 
+5.Features to consider 
+5.1 safety sensor (if no human on skateboard & & skateboard on -> skateboard sets speed to 0)
+5.2 headlights, could use an ldr to determine if its dark(illegal for electric vehicles to not have lights at night) 
+5.3 physical breaks
+5.4 ability to move backwards (bridge)
+5.5 sick neon lights at bottom 
+5.6 waterproofing or at least splash proofing
+6. Hardware to obtain
+6.1 Shannon's skateboard
+6.2 track/gear to connect motor shaft to drive train of skateboard
+6.3 battery and circuit mount
+6.4 electrical components op amps, led, diodes, capacitors... 
+7. Software 
+7.1 sync control-> adruino -> motor
+7.2 accelerate function
+7.3 ldr function (in void loop to continuously check) 
+7.4 safety feature function
+8. Limitations and restrictions 
+8.1 weight:
+8.2 cost:
+8.3 dimensions:
+8.4 
