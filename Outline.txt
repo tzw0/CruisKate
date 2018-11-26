@@ -15,6 +15,7 @@ Electric skateboard from scratch u know right
 5.4 ability to move backwards (bridge)
 5.5 sick neon lights at bottom 
 5.6 waterproofing or at least splash proofing
+5.7 ability to have neutral gear, save power/(if possible charge motor) 
 6. Hardware to obtain
 6.1 Shannon's skateboard
 6.2 track/gear to connect motor shaft to drive train of skateboard
