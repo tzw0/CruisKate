@@ -1,8 +1,9 @@
-Electric skateboard from scratch u know right
+Electric skateboard from scratch-technically u know right
 
 1.pwm to brushless dc circuit, design and solder 
 2.Battery design and creation(according to motor stats) 
 3.hook up to arduino, control with Analog output and comparators with motor external circuit
+3.1 other devices to consider:rasberry pi(its a computer) , microbit(has accelerometer, smallest of them all, could use for remote) 
 4.obtain speed control device(
 4.1 handheld remote/watch clip on
 4.2 physical Big buttons onboard
