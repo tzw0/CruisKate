@@ -35,3 +35,5 @@ Electric skateboard from scratch-technically u know right
 8.4 maximum weight of load onboard to achieve 10km/h
 8.5 acceleration from start
 8.6 max %gradient board can climb:
+8.7 max distance with <fixed load> (theoretical, actual) :(,) 
+8.8 max speed with <fixed load> (theoretical, actual) :(,) 
