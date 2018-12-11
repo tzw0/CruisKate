@@ -8,7 +8,6 @@
 #define ESCPIN 6
 #define POTPIN A1      // analog pin used to connect the potentiometer
 
-//MePort port(PORT_3);
 Servo esc;             // create servo object to control a servo
 int16_t val;           // variable to read the value from the analog pin
 
